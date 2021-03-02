@@ -8,7 +8,7 @@
 theme: minimal
 day_night: true
 font: ''
-font_size: L
+font_size: S
 
 # SEO
 
@@ -20,40 +20,52 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: 09.bachir.diop.10@gmail.com
+phone: 221 77 012 96 24
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: Université Gaston Berger
+  city: Saint-Louis
+  region: Saint-Louis
+  postcode: '234'
+  country: Senegal
+  country_code: SN
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: '16.06328'
+  longitude: '-16.42591'
+directions: Campus Social | Village A | 15G5
 office_hours:
   - 'Monday 10:00 to 13:00'
   - 'Wednesday 09:00 to 10:00'
 appointment_url: 'https://calendly.com'
 contact_links:
+  - icon: github
+    icon_pack: fab
+    name: diopBachir
+    link: 'https://github.com/diopBachir'
   - icon: twitter
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
+    name: Diop Bachir
+    link: 'https://twitter.com/dpBachir'
+   - icon: whatsapp
     icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
+    name: @diopBachir
+    link: 'https://wa.me/221770129624'
+   - icon: telegram
     icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: Bachir Diop
+    link: 'https://t.me/diopBachir'
+#  - icon: skype
+#    icon_pack: fab
+#    name: Skype Me
+#    link: 'skype:echo123?call'
+#  - icon: keybase
+#    icon_pack: fab
+#    name: Chat on Keybase
+#   link: 'https://keybase.io/'
+#  - icon: comments
+#    icon_pack: fas
+#    name: Discuss on Forum
+#    link: 'https://discourse.gohugo.io'
 
 # Site header
 
@@ -77,6 +89,7 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
+  - latex
 math: false
 diagram: false
 privacy_pack: false
